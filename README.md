@@ -32,8 +32,8 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Introduciton to numpy
 * Working with netCDFs
 * Time-saving methods in numpy
-- Slicing
-- Broadcast
+-- Slicing
+-- Broadcast
 * Masked arrays
  
 ## Pandas (part 1)
