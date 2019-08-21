@@ -39,8 +39,8 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Pandas (part 1)
 * Data in 'long form'
 * Reading in files
-- Delimiters
-- Engines
+-- Delimiters
+-- Engines
 * Cleaning data
 * Reshaping Data
 * Quick plotting in pandas
@@ -67,8 +67,8 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 https://scikit-learn.org/stable/modules/linear_model.html
 * Linear Models
 * Model Scoring
-- Error metrics
-- AIC & BIC
+-- Error metrics
+-- AIC & BIC
 * Cross validation
 * Overfitting
 
