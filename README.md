@@ -19,7 +19,8 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 9. Classification
 
 maybe a 3rd day on Visulization?
-general introduction to scikit-learn
+general introduction to scikit-learn or supervised learning in general?
+
 
 ## Slack Channel
 We will use Slack for participants to share comments, questions and snippets of code. 
@@ -83,7 +84,7 @@ https://scikit-learn.org/stable/modules/clustering.html#clustering
 
 ## Classification
 * Introduction to decision trees
-*
+* Not too sure about this category??
 
 # Notes
 To start a Jupyter notebook on Midway2, please do the following:
