@@ -1,5 +1,5 @@
 # Computational Bootcamp II and III
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rcc-uchicago/env_bootcamp/master?urlpath=lab)
+<![![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rcc-uchicago/env_bootcamp/master?urlpath=lab)>
 
 ## Date: Sep 9 - Sep 20, 2019
 ## Time: 9:00 - 11:30 am
@@ -30,10 +30,21 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
  
 ## Pandas (part 1)
 * Data in 'long form'
-*
+* Reading in files
+* Cleaning data
 
 ## Pandas (part 2)
 *
+
+## Visulization (part 1)
+* Introduction to matplotlib
+* Gridspec
+* Plot aesthetics
+
+## Visulization (part 2)
+* Plotting on maps
+* Colorbars
+* Seaborn
 
 ## Introduction to scikit-learn
 *
