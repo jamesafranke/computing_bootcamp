@@ -1,5 +1,5 @@
 # Computational Bootcamp II and III
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rcc-uchicago/env_bootcamp/master?urlpath=lab)
+Jim Franke - jfranke@uchicago.edu
 
 ## Date: Sep 9 - Sep 20, 2019
 ## Time: 9:00 - 11:30 am
@@ -19,7 +19,7 @@
 
 ## Slack Channel
 We will use Slack for participants to share comments, questions and snippets of code. 
-To join the uchicago_envbootcamp slack channel use the invitation link: 
+To join the computing_bootcamp slack channel use the invitation link: 
 [uchicago-envbootcamp.slack.com invitation](
 https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5NzgxLTY3ZTFjMmE3ZjExOTljZmE3NWI3ODFkZDg1M2IwMzQyYTE3MDVhZTQ5M2RkNTM4MmQ0YTM4Y2FmOWQ5ZmYxNTQ)
 
@@ -37,7 +37,9 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Cleaning data
 
 ## Pandas (part 2)
-*
+* Subsetting data
+* Grouping data
+* Pipelines
 
 ## Visulization (part 1)
 * Introduction to matplotlib
@@ -48,15 +50,18 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Plotting on maps
 * Colorbars
 * Seaborn
+* Animations??
 
-## Introduction to scikit-learn
+## Introduction to scikit-learn (or mnaybe a 3rd day on visulaization)
 *
 
 ## Regression models (part 1)
-*
+* 
 
 ## Regression models (part 2)
-*
+* Model Selection
+* Cross validation
+* AIC and BIC
 
 ## Clustering
 *
