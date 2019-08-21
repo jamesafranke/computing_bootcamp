@@ -33,15 +33,11 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Introduciton to numpy
 * Working with netCDFs
 * Time-saving methods in numpy
--- Slicing
--- Broadcast
 * Masked arrays
  
 ## Pandas (part 1)
 * Data in 'long form'
 * Reading in files
--- Delimiters
--- Engines
 * Cleaning data
 * Reshaping Data
 * Quick plotting in pandas
@@ -67,9 +63,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Regression models (part 1)
 https://scikit-learn.org/stable/modules/linear_model.html
 * Linear Models
-* Model Scoring
--- Error metrics
--- AIC & BIC
+* Model Scoring -- Error metrics -- AIC & BIC
 * Cross validation
 * Overfitting
 
@@ -80,12 +74,13 @@ https://scikit-learn.org/stable/modules/linear_model.html
 
 ## Clustering
 https://scikit-learn.org/stable/modules/clustering.html#clustering
-* Methods
+* Methods -- K-means -- Spectral
 * Scoring
 
 ## Classification
 * Introduction to decision trees
-* Not too sure about this category??
+* Random Forests
+* SVMs
 
 # Notes
 To start a Jupyter notebook on Midway2, please do the following:
