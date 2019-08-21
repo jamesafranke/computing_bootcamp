@@ -1,5 +1,5 @@
 # Computational Bootcamp II and III
-<![![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rcc-uchicago/env_bootcamp/master?urlpath=lab)>
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rcc-uchicago/env_bootcamp/master?urlpath=lab)
 
 ## Date: Sep 9 - Sep 20, 2019
 ## Time: 9:00 - 11:30 am
@@ -26,6 +26,9 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Day 1: Numpy & gridded data
 * Introduciton to numpy  
 * Time-saving methods in numpy
+** Slicing
+** Broadcast
+* Masked arrays
 * Working with netCDFs
  
 ## Pandas (part 1)
