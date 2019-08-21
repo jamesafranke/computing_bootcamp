@@ -13,11 +13,13 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 3. Pandas (part 2)
 * Day 4. Visulization (part 1)
 * Day 5. Visulization (part 2)
-* Day 6. Introduction to scikit-learn
-* Day 7. Regression models (part 1)
-* Day 8. Regression models (part 2)
-* Day 9. Clustering
-* Day 10. Classification
+* Day 6. Regression models (part 1)
+* Day 7. Regression models (part 2)
+* Day 8. Clustering
+* Day 9. Classification
+
+maybe a 3rd day on Visulization?
+general introduction to scikit-learn
 
 ## Slack Channel
 We will use Slack for participants to share comments, questions and snippets of code. 
@@ -26,16 +28,18 @@ To join the computing_bootcamp slack channel use the invitation link:
 https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5NzgxLTY3ZTFjMmE3ZjExOTljZmE3NWI3ODFkZDg1M2IwMzQyYTE3MDVhZTQ5M2RkNTM4MmQ0YTM4Y2FmOWQ5ZmYxNTQ)
 
 ## Day 1: Numpy & gridded data
-* Introduciton to numpy  
-* Time-saving methods in numpy
- 1. Slicing
- 2. Broadcast
-* Masked arrays
+* Introduciton to numpy
 * Working with netCDFs
+* Time-saving methods in numpy
+- Slicing
+- Broadcast
+* Masked arrays
  
 ## Pandas (part 1)
 * Data in 'long form'
 * Reading in files
+- Delimiters
+- Engines
 * Cleaning data
 * Quick plotting in pandas
 
@@ -43,6 +47,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Subsetting data
 * Grouping data
 * Pipelines
+* Lambda functions
 
 ## Visulization (part 1)
 * Introduction to matplotlib
@@ -51,24 +56,26 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Color usage
 
 ## Visulization (part 2)
-* Plotting on maps
+* Plotting data on maps
 * Colorbars
 * Seaborn
 * Animations??
 
-## Introduction to scikit-learn (or mnaybe a 3rd day on visulaization)
-*
-
 ## Regression models (part 1)
-* 
-
-## Regression models (part 2)
+https://scikit-learn.org/stable/modules/linear_model.html
+* Linear Models
 * Model Selection
 * Cross validation
 * AIC and BIC
 
+## Regression models (part 2)
+* Feature Selection
+* Ridge Regression
+
 ## Clustering
-*
+https://scikit-learn.org/stable/modules/clustering.html#clustering
+* k-means
+* 
 
 ## Classification
 * Introduction to decision trees
