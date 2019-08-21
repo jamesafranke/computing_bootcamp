@@ -41,6 +41,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 - Delimiters
 - Engines
 * Cleaning data
+* Reshaping Data
 * Quick plotting in pandas
 
 ## Pandas (part 2)
@@ -64,21 +65,25 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Regression models (part 1)
 https://scikit-learn.org/stable/modules/linear_model.html
 * Linear Models
-* Model Selection
+* Model Scoring
+- Error metrics
+- AIC & BIC
 * Cross validation
-* AIC and BIC
+* Overfitting
 
 ## Regression models (part 2)
 * Feature Selection
 * Ridge Regression
+* Gridsearch
 
 ## Clustering
 https://scikit-learn.org/stable/modules/clustering.html#clustering
-* k-means
-* 
+* Methods
+* Scoring
 
 ## Classification
 * Introduction to decision trees
+*
 
 # Notes
 To start a Jupyter notebook on Midway2, please do the following:
