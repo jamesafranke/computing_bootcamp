@@ -1,5 +1,6 @@
 # Computational Bootcamp II and III
 Jim Franke - jfranke@uchicago.edu
+Ziwei Wang - zwwang@uchicago.edu
 
 ## Date: Sep 9 - Sep 20, 2019
 ## Time: 9:00 - 11:30 am
