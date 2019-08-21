@@ -1,4 +1,4 @@
-# Computing for Research II & III (
+# Computing for Research II & III
 Jim Franke - jfranke@uchicago.edu
 
 Ziwei Wang - zwwang@uchicago.edu
