@@ -28,8 +28,8 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Day 1: Numpy & gridded data
 * Introduciton to numpy  
 * Time-saving methods in numpy
-1. Slicing
-2. Broadcast
+ 1. Slicing
+ 2. Broadcast
 * Masked arrays
 * Working with netCDFs
  
