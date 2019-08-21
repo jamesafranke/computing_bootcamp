@@ -8,7 +8,7 @@ Ziwei Wang - zwwang@uchicago.edu
 ## Location: Searle XXX
 
 ## Schedule:
-* Day 1. Numpy and working with gridded data
+* Day 1. Numpy & gridded data
 * Day 2. Pandas (part 1)
 * Day 3. Pandas (part 2)
 * Day 4. Visulization (part 1)
@@ -37,6 +37,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Data in 'long form'
 * Reading in files
 * Cleaning data
+* Quick plotting in pandas
 
 ## Pandas (part 2)
 * Subsetting data
@@ -47,6 +48,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Introduction to matplotlib
 * Gridspec
 * Plot aesthetics
+* Color usage
 
 ## Visulization (part 2)
 * Plotting on maps
@@ -69,7 +71,7 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 *
 
 ## Classification
-*
+* Introduction to decision trees
 
 # Notes
 To start a Jupyter notebook on Midway2, please do the following steps:
