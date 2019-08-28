@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=6lm4wJ1qm0w
 * Plotting data on maps
 * Animations
 
-## Regression models (part 1)
+## Intro to scikit-learn & Regression models (part 1)
 https://scikit-learn.org/stable/modules/linear_model.html
 * Linear Models
 * Loss
