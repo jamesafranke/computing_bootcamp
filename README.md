@@ -9,33 +9,35 @@ Ziwei Wang - zwwang@uchicago.edu
 
 ## Schedule:
 ### Week 1: Intro to HPC
-* Day 1. (Tuesady) linux/unix command line
+* Day 1. (Tue.) linux/unix command line
 * Day 2. Intro to RCC
-* Day 3. Parrellel computing
+* Day 3. Parallel computing
 * Day 4. GitHub
 
 ### Week 2/3: Intro to data science
 * Day 1. Numpy & gridded data
 * Day 2. Pandas (part 1)
 * Day 3. Pandas (part 2)
-* Day 4. Visulization (part 1)
-* Day 5. Visulization (part 2)
-* Day 6. Visulization (part 3)
+* Day 4. Visualization (part 1)
+* Day 5. Visualization (part 2)
+* Day 6. Visualization (part 3)
 * Day 7. Intro to scikit/Regression models (part 1)
 * Day 8. Regression models (part 2)
 * Day 9. Classification
 * Day 10. Clustering
 
+# ------------------------------------ 
 # Week 1:
 ## Day 1: Intro to unix/linux (2.5 hours)
 * Motivation/overview
-* Unix ,Command line interface, file systems
+* Unix, Command line interface, file systems
 * Jupyter notebooks
 * Running Jupyter notebooks on RCC (could be moved to day 2)
 
-## Basics of RCC
+## Day 2: Basics of RCC
 * Connecting to RCC
 * Software modules on RCC
+* Submitting a job
 
 ## Day 3: Advanced computing at scale (2 hours)
 Paralyzing a Job / Multiple node job
