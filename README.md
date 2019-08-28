@@ -1,4 +1,4 @@
-# Computing for Research I, II, & III
+# Computing for Research I, II, & III 
 Jim Franke - jfranke@uchicago.edu
 
 Ziwei Wang - zwwang@uchicago.edu
@@ -11,10 +11,10 @@ Ziwei Wang - zwwang@uchicago.edu
 ### Week 1: Intro to HPC
 * Day 1. (Tue.) linux/unix command line
 * Day 2. Intro to RCC
-* Day 3. Parallel computing
+* Day 3. Parallel computing (examples in python)
 * Day 4. GitHub
 
-### Week 2/3: Intro to data science
+### Week 2/3: Intro to data science in python
 * Day 1. Numpy & gridded data
 * Day 2. Pandas (part 1)
 * Day 3. Pandas (part 2)
@@ -49,7 +49,7 @@ Creating git repository and committing the code
 Sharing the code using git
 Good coding practices
 
-# Week 2/3:
+# Week 2/3: Intro to data science
 ## Day 1: Numpy & gridded data
 * Introduciton to numpy
 * Working with netCDFs
@@ -98,12 +98,12 @@ https://scikit-learn.org/stable/modules/linear_model.html
 * Ridge Regression
 * Gridsearch
 
-## Classification
+## Classification in scikit-learn
 * Introduction to decision trees
 * Random Forests
 * SVMs
 
-## Clustering
+## Clustering in scikit-learn
 https://scikit-learn.org/stable/modules/clustering.html#clustering
 * Methods -- K-means -- Spectral
 * Scoring
