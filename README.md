@@ -51,8 +51,10 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Plot aesthetics
 
 ## Visulization (part 2)
+https://www.youtube.com/watch?v=6lm4wJ1qm0w
 * Seaborn
 * Statistical Plotting
+* 'Publication-quality' plots
 
 ## Visulization (part 3)
 * Colorbars
