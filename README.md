@@ -14,13 +14,10 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 4. Visulization (part 1)
 * Day 5. Visulization (part 2)
 * Day 6. Visulization (part 3)
-* Day 7. Regression models (part 1)
+* Day 7. Intro to scikit/Regression models (part 1)
 * Day 8. Regression models (part 2)
 * Day 9. Clustering
 * Day 10. Classification
-
-maybe a 3rd day on Visulization?
-general introduction to scikit-learn or supervised learning in general?
 
 
 ## Slack Channel
