@@ -53,15 +53,14 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Gridspec
 * Plot aesthetics
 
-## Visulization (part 1)
+## Visulization (part 2)
 * Seaborn
 * Statistical Plotting
 
-## Visulization (part 2)
-* Plotting data on maps
+## Visulization (part 3)
 * Colorbars
-* Seaborn
-* Animations??
+* Plotting data on maps
+* Animations
 
 ## Regression models (part 1)
 https://scikit-learn.org/stable/modules/linear_model.html
