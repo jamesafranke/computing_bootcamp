@@ -55,13 +55,12 @@ Good coding practices
 * Working with netCDFs
 * Time-saving methods in numpy
 * Masked arrays
- 
+
 ## Pandas (part 1)
 * Data in 'long form'
 * Reading in files
 * Cleaning data
 * Reshaping Data
-* Quick plotting in pandas
 
 ## Pandas (part 2)
 * Subsetting data
@@ -109,7 +108,7 @@ https://scikit-learn.org/stable/modules/clustering.html#clustering
 * Methods -- K-means -- Spectral
 * Scoring
 
-# Notes
+## Notes
 To start a Jupyter notebook on Midway2, please do the following:
 1. Open a browser and go to https://midway2.rcc.uchicago.edu
 2. Login using your CNetID and password
