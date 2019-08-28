@@ -1,4 +1,4 @@
-# Computing for Research II & III
+# Computing for Research I, II, & III
 Jim Franke - jfranke@uchicago.edu
 
 Ziwei Wang - zwwang@uchicago.edu
@@ -8,6 +8,13 @@ Ziwei Wang - zwwang@uchicago.edu
 ## Location: Searle XXX
 
 ## Schedule:
+### Week 1: Intro to HPC
+* Day 1. (Tuesady) linux/unix command line
+* Day 2. Intro to RCC
+* Day 3. Parrellel computing
+* Day 4. GitHub
+
+### Week 2/3: Intro to data science
 * Day 1. Numpy & gridded data
 * Day 2. Pandas (part 1)
 * Day 3. Pandas (part 2)
@@ -19,13 +26,28 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 9. Classification
 * Day 10. Clustering
 
+# Week 1:
+## Day 1: Intro to unix/linux (2.5 hours)
+* Motivation/overview
+* Unix ,Command line interface, file systems
+* Jupyter notebooks
+* Running Jupyter notebooks on RCC (could be moved to day 2)
 
-## Slack Channel
-We will use Slack for participants to share comments, questions and snippets of code. 
-To join the computing_bootcamp slack channel use the invitation link: 
-[uchicago-envbootcamp.slack.com invitation](
-https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5NzgxLTY3ZTFjMmE3ZjExOTljZmE3NWI3ODFkZDg1M2IwMzQyYTE3MDVhZTQ5M2RkNTM4MmQ0YTM4Y2FmOWQ5ZmYxNTQ)
+## Basics of RCC
+* Connecting to RCC
+* Software modules on RCC
 
+## Day 3: Advanced computing at scale (2 hours)
+Paralyzing a Job / Multiple node job
+Optimizing code
+
+## Day 4: Code repository (2.5 hours)
+Basic concepts
+Creating git repository and committing the code
+Sharing the code using git
+Good coding practices
+
+# Week 2/3:
 ## Day 1: Numpy & gridded data
 * Introduciton to numpy
 * Working with netCDFs
