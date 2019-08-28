@@ -16,8 +16,8 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 6. Visulization (part 3)
 * Day 7. Intro to scikit/Regression models (part 1)
 * Day 8. Regression models (part 2)
-* Day 9. Clustering
-* Day 10. Classification
+* Day 9. Classification
+* Day 10. Clustering
 
 
 ## Slack Channel
@@ -75,15 +75,15 @@ https://scikit-learn.org/stable/modules/linear_model.html
 * Ridge Regression
 * Gridsearch
 
-## Clustering
-https://scikit-learn.org/stable/modules/clustering.html#clustering
-* Methods -- K-means -- Spectral
-* Scoring
-
 ## Classification
 * Introduction to decision trees
 * Random Forests
 * SVMs
+
+## Clustering
+https://scikit-learn.org/stable/modules/clustering.html#clustering
+* Methods -- K-means -- Spectral
+* Scoring
 
 # Notes
 To start a Jupyter notebook on Midway2, please do the following:
