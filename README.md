@@ -5,7 +5,7 @@ Ziwei Wang - zwwang@uchicago.edu
 
 ## Date: Sep 9 - Sep 20, 2019
 ## Time: 9:00 - 11:30 am
-## Location: Searle XXX
+## Location: Searle 240a
 
 ## Schedule:
 ### Week 1: Intro to HPC
