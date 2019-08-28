@@ -13,11 +13,11 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 3. Pandas (part 2)
 * Day 4. Visulization (part 1)
 * Day 5. Visulization (part 2)
-* Day 6. Regression models (part 1)
-* Day 7. Regression models (part 2)
-* Day 8. Clustering
-* Day 9. Classification
-* Day 10. ??
+* Day 6. Visulization (part 3)
+* Day 7. Regression models (part 1)
+* Day 8. Regression models (part 2)
+* Day 9. Clustering
+* Day 10. Classification
 
 maybe a 3rd day on Visulization?
 general introduction to scikit-learn or supervised learning in general?
@@ -52,7 +52,10 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 * Introduction to matplotlib
 * Gridspec
 * Plot aesthetics
-* Color usage
+
+## Visulization (part 1)
+* Seaborn
+* Statistical Plotting
 
 ## Visulization (part 2)
 * Plotting data on maps
@@ -63,11 +66,13 @@ https://join.slack.com/t/uchicago-envbootcamp/shared_invite/enQtNDMxNzY4NDY5Nzgx
 ## Regression models (part 1)
 https://scikit-learn.org/stable/modules/linear_model.html
 * Linear Models
-* Model Scoring -- Error metrics -- AIC & BIC
+* Loss
+* Model Scoring
 * Cross validation
 * Overfitting
 
 ## Regression models (part 2)
+* Regularization
 * Feature Selection
 * Ridge Regression
 * Gridsearch
