@@ -40,14 +40,14 @@ Ziwei Wang - zwwang@uchicago.edu
 * Submitting a job
 
 ## Day 3: Advanced computing at scale (2 hours)
-Paralyzing a Job / Multiple node job
-Optimizing code
+* Paralyzing a Job / Multiple node job
+* Optimizing code
 
 ## Day 4: Code repository (2.5 hours)
-Basic concepts
-Creating git repository and committing the code
-Sharing the code using git
-Good coding practices
+* Basic concepts
+* Creating git repository and committing the code
+* Sharing the code using git
+* Good coding practices
 
 # Week 2/3: Intro to data science
 ## Day 1: Numpy & gridded data
