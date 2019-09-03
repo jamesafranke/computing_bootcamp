@@ -109,7 +109,7 @@ https://scikit-learn.org/stable/modules/clustering.html#clustering
 * Scoring
 
 ## Notes
-To access course materials on Google Colab ipython notebook (Colab Notebook): 
+To access course materials for weeks 2+3 on ipython notebook (Google Colab Notebook): 
 1. Open the link to Google Drive. It is named as 'cfr_bootcamp'. <br>
 https://drive.google.com/drive/folders/1f_v3VJ2Y82Mtdnfwe6x_Spvji-YXFIET?usp=sharing <br>
 You will have that folder on your local Google Drive, and can access data there. <br>
