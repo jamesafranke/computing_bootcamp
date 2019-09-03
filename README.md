@@ -10,7 +10,7 @@ Ziwei Wang - zwwang@uchicago.edu
 ## Schedule:
 ### Week 1: Intro to HPC
 * Day 1. (Tue.) linux/unix, command line
-* Day 2. Intro to RCC, submitting batch jobs
+* Day 2. (Start at 930am) Intro to RCC, submitting batch jobs
 * Day 3. Parallel computing (examples in python)
 * Day 4. GitHub
 
@@ -21,7 +21,7 @@ Ziwei Wang - zwwang@uchicago.edu
 * Day 4. Visualization (part 1)
 * Day 5. Visualization (part 2)
 * Day 6. Visualization (part 3)
-* Day 7. Intro to scikit/Regression models (part 1)
+* Day 7. Intro to scikit-learn/ Regression models (part 1)
 * Day 8. Regression models (part 2)
 * Day 9. Classification
 * Day 10. Clustering
