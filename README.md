@@ -116,8 +116,8 @@ You will have that folder on your local Google Drive, and can access data there.
 
 2. Go to local Google Drive and create a new folder 'my_bootcamp'. Copy Day*.ipynb from (cfr_bootcamp) to your own folder (my_bootcamp). Then proceed to open the copy from your own directory (my_bootcamp). 
 
-3. Then run the first few blocks. It will prompt you to mount your own drive to colab working directory. 
-*Go to this URL in a browser: (Some link here)*
-It will open another window to choose an account that you wish to link to Colab Notebook. Copy the authorization code it gives you and input to the blank space below:
-*Enter your authorization code:*
+3. Then run the first few blocks. It will prompt you to mount your own drive to colab working directory.  <br>
+*Go to this URL in a browser: (Some link here)* <br>
+It will open another window to choose an account that you wish to link to Colab Notebook. Copy the authorization code it gives you and input to the blank space below: <br>
+*Enter your authorization code:* <br>
 ...
