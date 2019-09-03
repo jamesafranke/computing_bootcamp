@@ -109,19 +109,15 @@ https://scikit-learn.org/stable/modules/clustering.html#clustering
 * Scoring
 
 ## Notes
-To start a Jupyter notebook on Midway2, please do the following:
-1. Open a browser and go to https://midway2.rcc.uchicago.edu
-2. Login using your CNetID and password
-3. Once logged in, from top left corner, please select Applications->System Tools->Terminal
-4. On the terminal window, type `git clone https://github.com/jamesafranke/computing_bootcamp.git` to create the `computing_bootcamp` folder in your home directory
-5. On the terminal window, type `cd computing_bootcamp/`
-7. Run `git stash`
-8. Run the `git pull` command
-9. Run `cd Dayxxx` where `Dayxxx` is the folder where you want to try the notebooks from
-10. On the terminal, type `sh /project2/env_bootcamp/scripts/run_ipython.sh`
-     * after waiting for few seconds, you will see an address like 
-  http://128.135.112.69:16664/?token=87cb97894e54269def89acfe40ea48aa6c1beef0af1b08cb Copy and paste it to your browser's
-  address bar on your laptop and you should be able to run the bootcamp notebooks.
-  
-  Please see [here](https://rcc.uchicago.edu/docs/connecting/index.html#connecting-with-thinlinc) for more information 
-  on how to connect and do copy and paste between your computer and Midway.
+To access course materials on Google Colab ipython notebook (Colab Notebook): 
+1. Open the link to Google Drive. It is named as 'cfr_bootcamp'. <br>
+https://drive.google.com/drive/folders/1f_v3VJ2Y82Mtdnfwe6x_Spvji-YXFIET?usp=sharing <br>
+You will have that folder on your local Google Drive, and can access data there. <br>
+
+2. Go to local Google Drive and create a new folder 'my_bootcamp'. Copy Day*.ipynb from (cfr_bootcamp) to your own folder (my_bootcamp). Then proceed to open the copy from your own directory (my_bootcamp). 
+
+3. Then run the first few blocks. It will prompt you to mount your own drive to colab working directory. 
+*Go to this URL in a browser: (Some link here)*
+It will open another window to choose an account that you wish to link to Colab Notebook. Copy the authorization code it gives you and input to the blank space below:
+*Enter your authorization code:*
+...
