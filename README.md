@@ -52,21 +52,20 @@ Ziwei Wang - zwwang@uchicago.edu
 # Week 2/3: Intro to data science
 ## Day 1: Numpy & gridded data
 * Introduciton to numpy
-* Working with netCDFs
+* Reading different data types
 * Time-saving methods in numpy
 * Masked arrays
 
 ## Pandas (part 1)
-* Data in 'long form'
 * Reading in files
-* Cleaning data
-* Reshaping Data
+* Reshaping data
+* Lambda functions
+* Building 'long-form' data 
 
 ## Pandas (part 2)
-* Subsetting data
+* Method chaining
 * Grouping data
-* Pipelines
-* Lambda functions
+* Combining datasets
 
 ## Visulization (part 1)
 * Introduction to matplotlib
