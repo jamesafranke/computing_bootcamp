@@ -50,7 +50,7 @@ Ziwei Wang - zwwang@uchicago.edu
 * Good coding practices
 
 # Week 2/3: Intro to data science
-## Day 1: Numpy & gridded data
+## Numpy & gridded data
 * Introduciton to numpy
 * Reading different data types
 * Time-saving methods in numpy
